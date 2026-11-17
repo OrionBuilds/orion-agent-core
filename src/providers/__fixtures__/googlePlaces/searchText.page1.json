@@ -1,0 +1,8 @@
+{
+  "places": [
+    {"id": "ChIJabc123", "displayName": {"text": "Acme Co", "languageCode": "en"}, "formattedAddress": "123 Main St, Springfield, IL 62701, USA", "internationalPhoneNumber": "+1 813-555-0100", "rating": 4.8, "userRatingCount": 412, "businessStatus": "OPERATIONAL", "websiteUri": "https://acmeco.example.com/", "googleMapsUri": "https://maps.google.com/?cid=1", "primaryType": "roofing_contractor", "types": ["roofing_contractor", "point_of_interest"], "location": {"latitude": 27.9506, "longitude": -82.4572}},
+    {"id": "ChIJdef456", "displayName": {"text": "Sunshine Roofing"}, "formattedAddress": "9 Bay St, Brandon, FL 33511, USA", "rating": 4.1, "userRatingCount": 57, "businessStatus": "CLOSED_TEMPORARILY", "primaryType": "roofing_contractor", "location": {"latitude": 27.94, "longitude": -82.29}},
+    {"displayName": {"text": "No id — must be dropped"}}
+  ],
+  "nextPageToken": "AeJbb3kP2"
+}

@@ -1,0 +1,4 @@
+{"data": {"domain": "acmeco.example.com", "disposable": false, "webmail": false, "organization": "Acme Co", "pattern": "{first}", "emails": [
+  {"value": "john@acmeco.example.com", "type": "personal", "confidence": 94, "sources": [{"domain": "acmeco.example.com", "uri": "https://acmeco.example.com/about", "extracted_on": "2026-08-01"}], "first_name": "John", "last_name": "Smith", "position": "Owner", "seniority": "executive", "department": "executive", "linkedin": "https://www.linkedin.com/in/johnsmithacme", "phone_number": null},
+  {"value": "info@acmeco.example.com", "type": "generic", "confidence": 60, "sources": [], "first_name": null, "last_name": null, "position": null}
+]}, "meta": {"results": 2, "limit": 10, "offset": 0, "params": {"domain": "acmeco.example.com"}}}

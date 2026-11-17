@@ -1,0 +1,1 @@
+{"data": {"first_name": "John", "last_name": "Smith", "email": "john@acmeco.example.com", "score": 91, "domain": "acmeco.example.com", "position": "Owner", "sources": [{"uri": "https://acmeco.example.com/team"}], "verification": {"date": "2026-09-01", "status": "valid"}}, "meta": {"params": {}}}

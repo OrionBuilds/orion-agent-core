@@ -1,0 +1,10 @@
+node_modules/
+*.tsbuildinfo
+.DS_Store
+owner-profile.json
+OWNER-CONFIG-NOTES.md
+
+.claude/worktrees/
+
+.env
+.env.*

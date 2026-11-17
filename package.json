@@ -1,0 +1,37 @@
+{
+  "name": "@autom8ionlab/agent-core",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "private": true,
+  "description": "Shared library for the FRIDAY and CLARA agents \u2014 extracted, previously-duplicated modules only. Not a runtime app, not deployed on its own.",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node --import ./scripts/test/register.mjs --test \"src/**/*.test.ts\""
+  },
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "sideEffects": false,
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "cross-spawn": "^7.0.6",
+    "js-yaml": "^5.2.3"
+  },
+  "peerDependencies": {
+    "react": ">=19"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@types/cross-spawn": "^6.0.6",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "typescript": "^5"
+  }
+}

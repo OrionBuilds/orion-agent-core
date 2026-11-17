@@ -1,0 +1,9 @@
+# Tool names registered by the Orion mcp-server/src/tools/compliance.ts (registerComplianceTools), captured 2026-10-28.
+# Regenerate: git -C orion show origin/main:mcp-server/src/tools/compliance.ts | grep -A1 -E 'server\.tool\($' | grep -oE "^\s*['\"][a-z_0-9]+" | tr -d " '\""
+suppressions_check
+suppressions_add
+suppressions_list
+suppressions_remove
+consents_add
+consents_list
+tracked_links_create

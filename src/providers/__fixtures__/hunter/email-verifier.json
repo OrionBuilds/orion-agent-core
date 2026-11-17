@@ -1,0 +1,1 @@
+{"data": {"status": "accept_all", "result": "risky", "score": 62, "email": "john@acmeco.example.com", "regexp": true, "gibberish": false, "disposable": false, "webmail": false, "mx_records": true, "smtp_server": true, "smtp_check": true, "accept_all": true, "block": false, "sources": []}, "meta": {"params": {"email": "john@acmeco.example.com"}}}
