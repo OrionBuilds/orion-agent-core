@@ -61,7 +61,7 @@ Before you build or run anything you've cloned or pulled, run `bash scripts/secu
 
 ## Learn with the community
 
-The free Autom8ion Lab classroom on Skool walks through setting up Orion, Clara, FRIDAY and Harvey. [[TODO: Skool community link]]
+The free Autom8ion Lab classroom on Skool walks through setting up Orion, Clara, FRIDAY and Harvey. [Join the community](https://www.skool.com/autom8ion-lab-7149).
 
 ## Licence
 
